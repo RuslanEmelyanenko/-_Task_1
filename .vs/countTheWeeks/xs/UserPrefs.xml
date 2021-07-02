@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{30FD11F1-29B0-4D5D-ADF5-E5819D701010}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="countTheWeeks/Program.cs">
+    <Files>
+      <File FileName="countTheWeeks/Program.cs" Line="10" Column="53" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.countTheWeeks PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
